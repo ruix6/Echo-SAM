@@ -1,0 +1,14 @@
+hausdorff==0.2.6
+imageio==2.33.1
+matplotlib==3.8.2
+numpy==1.26.3
+Pillow==10.0.1
+PyQt5==5.15.10
+scikit-image==0.22.0
+scipy==1.12.0
+SimpleITK==2.3.1
+tensorboard==2.16.2
+torch==2.2.0
+torchaudio==2.2.0
+torchvision==0.17.0
+transformers==4.39.0

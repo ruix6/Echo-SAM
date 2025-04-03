@@ -1,0 +1,35 @@
+# 用户指定忽略的目录和文件
+work_dir/
+tensorboard/
+plot_image.py
+predict_samples.py
+
+# 常见开发环境忽略项
+*.py[cod]
+*$py.class
+__pycache__/
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
+.DS_Store
+._*
+Thumbs.db
